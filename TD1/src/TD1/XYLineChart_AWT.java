@@ -100,7 +100,7 @@ public class XYLineChart_AWT extends ApplicationFrame
 	       
 	     }
 	    
-	     
+	     //when you use eclipse, you can right click your mouse and choose source->form to make a better form for codes
 	     
 	
       
