@@ -52,8 +52,8 @@ public class min extends ApplicationFrame
   
    private XYDataset createDataset( )
    {  
-	  
-	   
+	  //there should't be too much line feed.(by haiyin)
+   
      
       final XYSeries Minimum = new XYSeries( "Minimum" );
       
@@ -64,7 +64,7 @@ public class min extends ApplicationFrame
 
         long startTime_2=System.nanoTime();
 	     minimum(tab);
-	     long endTime_2=System.nanoTime();
+	     long endTime_2=System.nanoTime(); //variable name not clear (by haiyin)
 	     Minimum.add(i,endTime_2-startTime_2);
 	     
 	     }               
