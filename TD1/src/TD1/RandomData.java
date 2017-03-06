@@ -14,7 +14,7 @@ public class RandomData {
 	public RandomData() {
 		// TODO Auto-generated constructor stub
 	}
-
+//this constructor you don't need to write it out
 	
 	 
 }
